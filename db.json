@@ -1,0 +1,103 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "Hulk",
+      "alterEgo": "Bruce Banner",
+      "id": 4
+    },
+    {
+      "name": "Iron Man",
+      "alterEgo": "Tony Stark",
+      "id": 5
+    },
+    {
+      "name": "chess man",
+      "alterEgo": "hope dop",
+      "id": 6
+    },
+    {
+      "name": "aqua man",
+      "alterEgo": "author curry",
+      "id": 7
+    },
+    {
+      "name": "poop",
+      "alterEgo": "doop",
+      "id": 8
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Chandler Bing"
+    },
+    {
+      "id": 2,
+      "name": "Joey Tribiani"
+    }
+  ],
+  "users": [
+    {
+      "id": "test@test.com",
+      "channelId": "codemode"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codemode",
+      "courses": [
+        "react",
+        "vue"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "white"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "red"
+    },
+    {
+      "id": 5,
+      "label": "orange"
+    },
+    {
+      "id": 6,
+      "label": "yellow"
+    },
+    {
+      "id": 7,
+      "label": "purple"
+    },
+    {
+      "id": 8,
+      "label": "teal"
+    }
+  ]
+}
